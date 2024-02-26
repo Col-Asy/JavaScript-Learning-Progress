@@ -1,0 +1,10 @@
+JAvaScript Notes
+
+-> Weakly and Dynamically typed
+
+	Variables(Total 3)					Datatypes(Total 10)
+	->var					->Number	->Undefined
+	->let					->String	->Symbol
+	->const					->Function	->Null
+						->Array		->Big Int
+						->Object	->Boolean
