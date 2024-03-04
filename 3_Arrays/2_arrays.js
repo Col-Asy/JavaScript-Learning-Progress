@@ -16,10 +16,13 @@ console.log(arr);
 
 
 // For of Loop
+// For of used to find the elemnt in the array
 for(let el of arr){
     console.log(el);
 }
 
+// For in Loop
+// For in used to find the index in the array
 for(let indx in arr){
     console.log(indx);
 }

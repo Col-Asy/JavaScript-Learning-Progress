@@ -15,7 +15,7 @@
 // console.log(str);
 
 // Command Line se input le skte hai bas JS ke andar
-console.log(process.argv);
+console.log(process.argv);      // THis meathod of using process.argv is used for the same
 
 let inp1 = process.argv[2];
 let inp2 = process.argv[3];
