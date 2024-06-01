@@ -1,4 +1,4 @@
-let url = 'mywebsite.com/movie.mp3';
+let url = 'mywebsite.com/movie.mp4';
 
 let p = new Promise(function (resolve, reject) {
     setTimeout(function () {
