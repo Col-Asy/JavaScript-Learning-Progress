@@ -1,0 +1,5 @@
+li:first-child .upbtn,
+li:last-child .dwnbtn {
+    visibility: hidden;
+    cursor: none;
+}
