@@ -1,0 +1,20 @@
+# Ignore build artifacts and dependencies
+node_modules/
+dist/
+build/
+*.log
+
+# Ignore editor-specific files
+.vscode/
+
+# Ignore sensitive or environment-specific files
+.env
+config.js
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.temp
