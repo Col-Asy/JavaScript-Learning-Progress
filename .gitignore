@@ -4,6 +4,9 @@ dist/
 build/
 *.log
 
+# Ignore databases
+data/
+
 # Ignore editor-specific files
 .vscode/
 
